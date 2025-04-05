@@ -86,7 +86,7 @@ class Carros    //Criação da classe Carro
                 //Verifica se a variavel opcaoMod é maior ou igual 0 zero e menor ou igual a quantidade de linhas da lista categoria, para garantir que a opcao esta dentro do index da lista
                 if(int.TryParse(entrada, out opcaoMod) && opcaoMod >= 0 && opcaoMod <= categoria.GetLength(0)){
                     Console.WriteLine($"Modelo: {categoria[opcaoMod - 1, 0]}"); //Mostra o nome do modelo esclhido
-                    Console.WriteLine($"Kilometragem: {categoria[opcaoMod - 1, 1]}");   //Mostra a kilometragem do modelo
+                    Console.WriteLine($"Preço: R$ {categoria[opcaoMod - 1, 1]}");   //Mostra a preço do modelo
                     Console.WriteLine($"Motor: {categoria[opcaoMod - 1, 2]}");  //Mostra o tipo de motor do modelo
                     Console.WriteLine($"Combustivel: {categoria[opcaoMod - 1, 3]}"); //Mostra o tipo de combustivel do modelo
                     break;  //Finaliza o loop de escolha de modelos
