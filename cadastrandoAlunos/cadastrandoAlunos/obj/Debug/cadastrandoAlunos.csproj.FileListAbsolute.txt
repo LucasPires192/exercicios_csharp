@@ -1,0 +1,11 @@
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\bin\Debug\cadastrandoAlunos.exe.config
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\bin\Debug\cadastrandoAlunos.exe
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\bin\Debug\cadastrandoAlunos.pdb
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.Form1.resources
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.Properties.Resources.resources
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.exe
+C:\Users\Alunos\Desktop\cadastrandoAlunos\cadastrandoAlunos\obj\Debug\cadastrandoAlunos.pdb
